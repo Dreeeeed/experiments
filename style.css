@@ -1,0 +1,23 @@
+h1, h2, h3, h4 {
+    color:cadetblue;
+    font-size: 30px;
+    margin: 50px;
+    background-color: lavender;
+}
+h1{ 
+    color: coral;
+    /* color: rgba(255, 127, 80, 0.8); */
+}
+.important {
+    color: darkslateblue;
+    background-color: mediumpurple;
+}
+    .uppercase {
+    text-transform: uppercase;
+}
+#theOne {
+    color: tomato;
+}
+#mr-jones {
+    color:darkblue !important; 
+}
